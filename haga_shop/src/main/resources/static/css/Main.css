@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.kensakuzyoken-box-1{
+    background-color: #eee;
+    margin: 2em 0;
+    padding: 2em;
+}
+.button{
+	width: 200px;
+	background-color: red;
+}
